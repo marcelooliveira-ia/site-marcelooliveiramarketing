@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcelooliveiramarketing.com.br/sitemap.xml
